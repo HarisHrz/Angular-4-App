@@ -1,0 +1,21 @@
+.login_container {
+    position: fixed;
+    left: 65%;
+    top:10%;
+}
+.vertical-offset-100{
+    padding-top:100px;
+}
+
+.image1 {
+    /* Set a specific height */
+     height: 500px;  
+     width: 100%;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
